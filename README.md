@@ -2,7 +2,7 @@
 
 ### The project involves the following key steps:
 
-**Data Collection:** https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page -> May -> Green Taxi Trip Records
+**Data Collection:** https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page ->2023 -> May -> Green Taxi Trip Records
 
 ### Data Description:
 
@@ -25,7 +25,7 @@
 This project is licensed under the GPU License.
 
 ### Acknowledgments
-The dataset used in this project is sourced from: https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page -> May -> Green Taxi Trip Records
+The dataset used in this project is sourced from: https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page -> 2023 -> May -> Green Taxi Trip Records
 The Linear Regression algorithm is implemented using the scikit-learn library.
 
 ### Contact

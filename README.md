@@ -35,19 +35,19 @@
 
 
 ### Fork the repository on GitHub:
-  1)Create a new branch from the main branch to work on your changes.
-  2)Make your modifications and commit your changes.
-  3)Push your branch to your forked repository.
-  4)Open a pull request to the original repository, describing the changes you made.
+  1)Create a new branch from the main branch to work on your changes.<br>
+  2)Make your modifications and commit your changes.<br>
+  3)Push your branch to your forked repository.<br>
+  4)Open a pull request to the original repository, describing the changes you made.<br>
   
 ### License:
 This project is licensed under the GPU License.
 
 ### Acknowledgments
-The dataset used in this project is sourced from: https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page -> 2023 -> May -> Green Taxi Trip Records
-The Linear Regression algorithm is implemented using the scikit-learn library.
+The dataset used in this project is sourced from: https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page -> 2023 -> May -> Green Taxi Trip Records.<br>
+The Regression algorithm is implemented using the scikit-learn library.
 
 ### Contact
-If you have any questions or suggestions regarding this project, please feel free to contact me at eswaraditya63@gmail.com
+If you have any questions or suggestions regarding this project, please feel free to contact me at eadityar@gmail.com
 
 ### Conclusion:

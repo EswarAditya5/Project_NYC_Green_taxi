@@ -4,3 +4,6 @@ Scikit-learn
 joblib
 Streamlit
 Prediction
+Matplotlib
+Seaborn
+pyarrow
